@@ -1,6 +1,6 @@
 @echo off
 :l
-color b
+color 0c
 echo  Virus        $$$$$$$$$$$$$b            
 echo  Virus       $$$$$$$$$$$$$$$$          
 echo  Virus      4$$$$$$$$$$$$$$$$F        
