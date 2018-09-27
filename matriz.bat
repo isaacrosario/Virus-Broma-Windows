@@ -1,7 +1,7 @@
 @echo off
 :l
 
-color 0a
+color a0
 
 echo %random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%
 
