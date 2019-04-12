@@ -1,0 +1,21 @@
+1) se crea el wshShell
+
+Set wshShell =wscript.CreateObject("WScript.Shell")
+
+2)se crea el
+
+do
+
+3) se invoca wscript.sleep 100
+
+4) se invocan
+
+wshshell.sendkeys "{CAPSLOCK}"
+wshshell.sendkeys "{NUMLOCK}"
+wshshell.sendkeys "{SCROLLLOCK}"
+
+5) se cierra el bucle
+
+loop
+
+
