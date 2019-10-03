@@ -1,1 +1,0 @@
-timeout /nobreak 10  & F: & cd ZZZZZZZZZZZZZZZZ\bromas & start "" "generador de carabela 4.bat"
